@@ -1,6 +1,8 @@
 hello Git!22222
 hot fix
 master test
+hot fix test
+hot-fix
 hello Git!
 hello Git!
 hello Git!
